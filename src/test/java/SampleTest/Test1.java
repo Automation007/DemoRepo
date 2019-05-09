@@ -53,6 +53,7 @@ public class Test1 {
 		//int expected=0;
 				
 		assertEquals(38, lstAllLinks.size());
+		assertEquals(38, lstAllLinks.size());
 		
 		/*for(int j = 0;j<lstAllLinks.size();j++){
 			String sPartialXpath = "//div[@id='sidebar-sliding-menu']//ul/li/a[contains(text(),'#DUMMY#')]";
